@@ -1,0 +1,1 @@
+O processo TDD (desenvolvimento dirigido por testes) consiste em três etapas principais: na primeira, escreve-se o teste e esse teste falha. Em seguida, é desenvolvido o código da aplicação, de forma a fazer o teste passar. Por fim, esse código é melhorado e refatorado e são escritos novos testes para novas funcionalidades que ainda serão implementadas, repetindo o ciclo.
