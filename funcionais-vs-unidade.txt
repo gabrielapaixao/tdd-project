@@ -1,0 +1,6 @@
+Testes Funcionais dirigem o desenvolvimento em alto nível, enquanto Testes de Unidade focam em um nível mais baixo. 
+Testes Funcionais ajudam a construir uma aplicação com funcionalidades corretas, enquanto Testes de Unidade ajudam a escrever código limpo e sem bug.
+Testes Funcionais  focam no ponto de vista do usuário, enquanto os testes de unidade focam no ponto de vista do desenvolvedor.
+Testes funcionais também são conhecidos como "caixa-preta", enquanto testes de unidade costumam ser "caixa-branca", ou seja, com conhecimento dos detalhes de implementação, da estrutura do código.
+
+
